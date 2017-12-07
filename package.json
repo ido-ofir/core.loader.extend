@@ -1,6 +1,6 @@
 {
-  "name": "core.plugin.core.plugin.extend",
-  "version": "1.0.0",
+  "name": "core.loader.extend",
+  "version": "0.0.1",
   "description": "Allows plugins to declaratively extend the core object.",
   "main": "index.js",
   "scripts": {
